@@ -22,7 +22,7 @@ I get a chance.
 The talk is listed on
 [[http://mc-stan.org/users/documentation/tutorials][Stan's Tutorials]] page.
 
-* Risk Management
+* Time Series & Risk Management
 Two [[file:Baruch_TimeSeries_2015-04-22.pdf][talks]]
 I gave on value at risk ("VaR") and time series 
 analysis for Master's-level quants:

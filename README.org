@@ -3,12 +3,19 @@
 #+author: Thomas P. Harte
 #+email: tharte@cantab.net
 
+* Stan
+
+I gave a lecture at R/Finance 2016 and another (updated) one at R/Finance
+2017 on [[http://tharte.github.io/mbt/][/Modern Tools for Time Series Analysis/]] (the link refers
+to the 2016 materials---I'll post the 2017 one when I get a chance).
+
+
 * Risk Management
 
 Two talks I gave on value at risk ("VaR") and time series 
 anaysis for Master's-level quants:
 
 1. NYU Courant: 2015-04-14
-1. Baruch:  2015-04-22
+2. Baruch:  2015-04-22
 
 [[file:Baruch_TimeSeries_2015-04-22.pdf]]

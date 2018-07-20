@@ -1,0 +1,14 @@
+# -*- org-confirm-babel-evaluate: nil -*-
+#+title: README
+#+author: Thomas P. Harte
+#+email: tharte@cantab.net
+
+* Risk Management
+
+Two talks I gave on value at risk ("VaR") and time series 
+anaysis for Master's-level quants:
+
+1. NYU Courant: 2015-04-14
+1. Baruch:  2015-04-22
+
+[[./file:Baruch_TimeSeries_2015-04-22.pdf]]

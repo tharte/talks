@@ -11,4 +11,4 @@ anaysis for Master's-level quants:
 1. NYU Courant: 2015-04-14
 1. Baruch:  2015-04-22
 
-[[./file:Baruch_TimeSeries_2015-04-22.pdf]]
+[[file:Baruch_TimeSeries_2015-04-22.pdf]]

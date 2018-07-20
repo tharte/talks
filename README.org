@@ -6,8 +6,10 @@
 * Stan
 
 I gave a lecture at R/Finance 2016 and another (updated) one at R/Finance
-2017 on [[http://tharte.github.io/mbt/][/Modern Tools for Time Series Analysis/]] (the link refers
-to the 2016 materials---I'll post the 2017 one when I get a chance).
+2017 on [[http://tharte.github.io/mbt/][/Modern Tools for Time Series Analysis/]] using the [[https://www.mrc-bsu.cam.ac.uk/software/bugs/][BUGS]]-like
+meta-language for Bayesian modeling, [[http://mc-stan.org/][Stan]].
+The link refers to the 2016 materials---I'll post the 2017 one when 
+I get a chance. The talk listed on [[http://mc-stan.org/users/documentation/tutorials][Stan's Tutorials]] page.
 
 
 * Risk Management

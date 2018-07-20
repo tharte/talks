@@ -8,9 +8,9 @@ Presentations on private-equity research at
 [[http://past.rinfinance.com/agenda/2017/talk/ThomasHarte.pdf][R/Finance 2017]] and 
 [[http://past.rinfinance.com/agenda/2018/ThomasHarte.pdf][R/Finance 2018]]:
 1. R/Finance 2017:  
-[[file:rfinance-2017.pdf][The PE Package: Modeling private equity in the 21st Century]]
+[[file:rinfinance-2017.pdf][The PE Package: Modeling private equity in the 21st Century]]
 2. R/Finance 2018: 
-[[file:rfinance-2018.pdf][Trading the Untradable: Pricing Derivatives When Prices Are Not Observable]]
+[[file:rinfinance-2018.pdf][Trading the Untradable: Pricing Derivatives When Prices Are Not Observable]]
 
 * Stan
 I gave a lecture at R/Finance 2016 and another (updated) one at R/Finance

@@ -23,10 +23,10 @@ The talk is listed on
 [[http://mc-stan.org/users/documentation/tutorials][Stan's Tutorials]] page.
 
 * Risk Management
-Two talks I gave on value at risk ("VaR") and time series 
+Two [[file:Baruch_TimeSeries_2015-04-22.pdf][talks]]
+I gave on value at risk ("VaR") and time series 
 analysis for Master's-level quants:
 
 1. NYU Courant: 2015-04-14
 2. Baruch:  2015-04-22
 
-[[file:Baruch_TimeSeries_2015-04-22.pdf]]
